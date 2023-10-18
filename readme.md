@@ -16,7 +16,7 @@ cd zoe-depth-estimation
 ```
 
 2. API Key to  `.env` file
-
+Get your api key from [imgbb](https://api.imgbb.com/)
 ```
 echo IMG_API_KEY='YOUR-API-KEY' > .env
 ```
