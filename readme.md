@@ -1,6 +1,4 @@
-# Image Similarity Calculator
-
-This project provides a simple image similarity calculator using the CLIP (Contrastive Language-Image Pre-training) model. It consists of two Python scripts, `predictor.py` and `app.py`, that allow you to calculate the cosine similarity between two images.
+# Depth Estimation
 
 ## Requirements
 
